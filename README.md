@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+技术栈：ui框架antd,状态管理mobx,Router6
 
 ## Available Scripts
 
